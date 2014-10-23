@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">qOne_aTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_string">qOne android (test)</string>
+    <string name="edit_message">type id</string>
+    <string name="button_send">login</string>
+    <string name="task1">task1</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
